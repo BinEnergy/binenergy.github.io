@@ -2027,13 +2027,14 @@ textarea.form-control {
   padding-top: 25px;
 }
 .navbar .logo-container {
-  margin-top: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 .navbar .logo-container .logo {
   overflow: hidden;
   border-radius: 50%;
   border: 1px solid #333333;
-  width: 83px;
+  width: 75px;
   float: left;
 }
 .navbar .logo-container .logo img {
@@ -2506,7 +2507,7 @@ textarea.form-control {
 }
 
 .section-dark .card-profile.card-plain .card-title {
-  color: #FFFFFF !important;
+  color: #FFFFFF !important; 
 }
 .section-dark .card-profile.card-plain .card-description {
   color: rgba(255, 255, 255, 0.7);
